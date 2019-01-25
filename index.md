@@ -20,10 +20,10 @@ You can track my many projects and programs here!
   - [Christmas Song App](https://github.com/cool00geek/ChristmasSong)
   - [Android Network Hacks](https://github.com/cool00geek/NetHacks)
   - [DNSCrypt Proxy Magisk Module](https://github.com/cool00geek/dnscrypt-proxy-magisk)
-  - [Updates programs on your Debian-based OS](https://github.com/cool00geek/updater)
 - Scripts
   - [Ubuntu Setup](https://github.com/cool00geek/Ubuntu-setup)
   - [PowerPoint to MarkDown converter](https://github.com/cool00geek/PPTtoMD)
+  - [Updates programs on your Debian-based OS](https://github.com/cool00geek/updater)
 - [Star Wars Christmas Lights](https://cool00geek.github.io/StarWarsLEDStrip/)
 - [A guide on how to unlock the bootloader and flash custom ROMs on various devices](https://github.com/cool00geek/ROMDocumentation)
 
