@@ -25,7 +25,7 @@ You can track my many projects and programs here!
   - [PowerPoint to MarkDown converter](https://github.com/cool00geek/PPTtoMD)
   - [Updates programs on your Debian-based OS](https://github.com/cool00geek/updater)
 - [Star Wars Christmas Lights](https://cool00geek.github.io/StarWarsLEDStrip/)
-- [A guide on how to unlock the bootloader and flash custom ROMs on various devices](https://github.com/cool00geek/ROMDocumentation)
+- [Guide: How to unlock the bootloader and flash custom ROMs (Contributor)](https://github.com/hexalellogram/ROMDocumentation)
 
 ## Hackathon Projects
 
