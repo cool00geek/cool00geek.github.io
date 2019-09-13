@@ -21,6 +21,7 @@ You can track my many projects and programs here!
   - [Android Network Hacks](https://github.com/cool00geek/NetHacks)
   - [DNSCrypt Proxy Magisk Module](https://github.com/cool00geek/dnscrypt-proxy-magisk)
 - Scripts
+  - [Rclone backup](https://github.com/cool00geek/rclonebackup)
   - [Ubuntu Setup](https://github.com/cool00geek/Ubuntu-setup)
   - [PowerPoint to MarkDown converter](https://github.com/cool00geek/PPTtoMD)
   - [Updates programs on your Debian-based OS](https://github.com/cool00geek/updater)
