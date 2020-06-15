@@ -2,12 +2,14 @@
 layout: default
 ---
 
-Welcome to Vinay's website!
+I'm Vinay, an aspring cyber security engineer and rising Senior at the University of California, Santa Cruz, studying Computer Science (B.S.).
 
-You can track my many projects and programs here!
+Contact Information:
+- Email: cool00geek [at] yahoo [dot] com
+- Phone number available upon request
+- [LinkedIn](https://www.linkedin.com/in/vinay-venkat/)
 
-
-## My Programs
+## Programs
 
 - [Linux Scoring Engine](https://cool00geek.github.io/LinuxEngine/)
 - [Cyber Tiger Scoreboard](https://github.com/cool00geek/CyberTigerScoreboard)
@@ -15,7 +17,7 @@ You can track my many projects and programs here!
 - [Slack Messenger Bot for US CyberPatriot Scores](https://github.com/cool00geek/CyberPatriotMessengerBot)
 - [Fakecon](https://github.com/cool00geek/fakecon)
 
-## My Other Projects
+## Side Projects
 
 - Android Apps
   - [Christmas Song App](https://github.com/cool00geek/ChristmasSong)
@@ -42,4 +44,22 @@ You can track my many projects and programs here!
   - Created with [@miladfarazian](https://github.com/miladfarazian)
 - [Collaborhack](https://github.com/cool00geek/collaborhack)
   - [MLH Local Hack Day 2018](https://localhackday.mlh.io/)
+  
+## Education
 
+### University of California, Santa Cruz
+
+Bachelor of Science - Computer Science (Expected Graduation: Spring 2021)
+
+Dean's List (Top 10% of my class)
+
+3.8 GPA
+
+### Relevant Courses
+
+- [Algorithms and Data Structures](https://courses.soe.ucsc.edu/courses/cse101)
+- [Computer Networks](https://courses.soe.ucsc.edu/courses/cse150)
+- [Network Programming](https://courses.soe.ucsc.edu/courses/cse156)
+- [Computer Architecture](https://courses.soe.ucsc.edu/courses/cse120)
+- [Operating Systems (Computer Systems Design)](https://courses.soe.ucsc.edu/courses/cse130)
+- [Distributed Systems](https://courses.soe.ucsc.edu/courses/cse138)
