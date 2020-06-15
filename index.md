@@ -8,6 +8,8 @@ Contact Information:
 - Email: cool00geek [at] yahoo [dot] com
 - Phone number available upon request
 - [LinkedIn](https://www.linkedin.com/in/vinay-venkat/)
+- [GitHub](https://github.com/cool00geek)
+- [Resume](https://cool00geek.github.io/Resume/VinayVenkat-Resume.pdf)
 
 ## Programs
 
@@ -49,11 +51,9 @@ Contact Information:
 
 ### University of California, Santa Cruz
 
-Bachelor of Science - Computer Science (Expected Graduation: Spring 2021)
-
-Dean's List (Top 10% of my class)
-
-3.8 GPA
+- Bachelor of Science - Computer Science (Expected Graduation: Spring 2021)
+- Dean's List (Top 10% of my class)
+- 3.8 GPA
 
 ### Relevant Courses
 
