@@ -37,13 +37,13 @@ Contact Information:
 
 - [Uniaux](https://github.com/cool00geek/Uniaux)
   - [CruzHacks 2020](https://www.cruzhacks.com/)
-  - Created with [@miladfarazian](https://github.com/miladfarazian), [@Edywang](https://github.com/Edywang), and [@JSnack58](https://github.com/JSnack58)
-- [FlyerScanner](https://github.com/hexalellogram/FlyerScanner)
+  - Created with Milad Farazian ([@miladfarazian](http://miladfarazian.com/)), Edwin Wang ([@Edywang](https://github.com/Edywang)), and Anthony Frank ([@JSnack58](https://github.com/JSnack58))
+- [FlyerScanner](https://brycetsuyuki.com/FlyerScanner/)
   - [SDHacks 19](https://www.sdhacks.io/)
-  - Created with [@hexalellogram](https://brycetsuyuki.com/), [@jbwong05](https://github.com/jbwong05), and [@varystargaryen](https://github.com/varystargaryen)
+  - Created with Bryce Tsuyuki ([@hexalellogram](https://brycetsuyuki.com/)), Josh Wong ([@jbwong05](https://github.com/jbwong05)), and Digvijay Jani ([@varystargaryen](https://github.com/varystargaryen))
 - [What the Slug is Going On](https://github.com/cool00geek/WhatTheSlug)
   - [CruzHacks 2019](https://www.cruzhacks.com/)
-  - Created with [@miladfarazian](https://github.com/miladfarazian)
+  - Created with Milad Farazian ([@miladfarazian](http://miladfarazian.com/))
 - [Collaborhack](https://github.com/cool00geek/collaborhack)
   - [MLH Local Hack Day 2018](https://localhackday.mlh.io/)
   
