@@ -13,6 +13,7 @@ You can track my many projects and programs here!
 - [Cyber Tiger Scoreboard](https://github.com/cool00geek/CyberTigerScoreboard)
 - [UCSC Dining Hall Messenger Bot](https://cool00geek.github.io/SlugDiningBot/)
 - [Slack Messenger Bot for US CyberPatriot Scores](https://github.com/cool00geek/CyberPatriotMessengerBot)
+- [Fakecon](https://github.com/cool00geek/fakecon)
 
 ## My Other Projects
 
@@ -30,6 +31,12 @@ You can track my many projects and programs here!
 
 ## Hackathon Projects
 
+- [Uniaux](https://github.com/cool00geek/Uniaux)
+  - [CruzHacks 2020](https://www.cruzhacks.com/)
+  - Created with [@miladfarazian](https://github.com/miladfarazian), [@Edywang](https://github.com/Edywang), and [@JSnack58](https://github.com/JSnack58)
+- [FlyerScanner](https://github.com/hexalellogram/FlyerScanner)
+  - [SDHacks 19](https://www.sdhacks.io/)
+  - Created with [@hexalellogram](https://brycetsuyuki.com/), [@jbwong05](https://github.com/jbwong05), and [@varystargaryen](https://github.com/varystargaryen)
 - [What the Slug is Going On](https://github.com/cool00geek/WhatTheSlug)
   - [CruzHacks 2019](https://www.cruzhacks.com/)
   - Created with [@miladfarazian](https://github.com/miladfarazian)
