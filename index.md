@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Vinay, an aspring cyber security engineer and rising Senior at the University of California, Santa Cruz, studying Computer Science (B.S.).
+I'm Vinay, a cyber security engineer with aspirations in security and Linux.
 
 Contact Information:
 - Email: cool00geek [at] yahoo [dot] com
