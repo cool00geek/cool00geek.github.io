@@ -44,11 +44,6 @@ Contact Information:
 - [Collaborhack](https://devpost.com/software/collaborhack)
   - [UCSC MLH Local Hack Day 2018](https://swe-x-cruzhacks-hackathon.devpost.com/)
   
-## Contributions 
-
-- [Guide: How to unlock the bootloader and flash custom ROMs (Contributor)](https://github.com/hexalellogram/ROMDocumentation)
-
-
 ## Education
 
 ### University of California, Santa Cruz
