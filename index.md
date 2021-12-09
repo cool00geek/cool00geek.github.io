@@ -25,7 +25,7 @@ Contact Information:
 
 ## Hackathon Projects
 
-- [Boredgon Trail](https://devpost.com/software/boredgon-trailder)
+- [Boredgon Trailder](https://devpost.com/software/boredgon-trailder)
   - [LAhacks](https://devpost.com/software/boredgon-trailder/edit)
   - Created with Bryce Tsuyuki ([@hexalellogram](https://brycetsuyuki.com/))
 - [Canvas Year in Review](https://devpost.com/software/canvas-year-in-review)
