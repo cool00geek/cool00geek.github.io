@@ -15,6 +15,7 @@ Contact Information:
 
 - [UCSC Dining Hall Messenger Bot](https://cool00geek.github.io/SlugDiningBot/)
 - [Fakecon](https://github.com/cool00geek/fakecon)
+- [Wrapped](https://github.com/cool00geek/wrapped)
 - [Linux Scoring Engine](https://cool00geek.github.io/LinuxEngine/)
 - [Ubuntu Setup](https://github.com/cool00geek/Ubuntu-setup)
 - [Star Wars Christmas Lights](https://cool00geek.github.io/StarWarsLEDStrip/)
@@ -51,12 +52,3 @@ Contact Information:
 - Bachelor of Science - Computer Science (June 2021)
 - Cum Laude and Highest Honors in the major (Top 10% of my class)
 - 3.8 GPA
-
-### Relevant Courses
-
-- [Algorithms and Data Structures](https://courses.soe.ucsc.edu/courses/cse101)
-- [Computer Networks](https://courses.soe.ucsc.edu/courses/cse150)
-- [Network Programming](https://courses.soe.ucsc.edu/courses/cse156)
-- [Computer Architecture](https://courses.soe.ucsc.edu/courses/cse120)
-- [Operating Systems (Computer Systems Design)](https://courses.soe.ucsc.edu/courses/cse130)
-- [Distributed Systems](https://courses.soe.ucsc.edu/courses/cse138)
